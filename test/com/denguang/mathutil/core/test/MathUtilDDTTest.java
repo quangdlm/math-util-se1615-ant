@@ -53,7 +53,7 @@ public class MathUtilDDTTest {
                                 {3,6},
                                 {4,24},
                                 {5,120},
-                                {6,720}
+                                {6,7200}
                                 };
     }
     @Parameterized.Parameter(value = 0)//MAP BIẾN NÀY VÀO CỘT 0
