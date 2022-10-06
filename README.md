@@ -4,7 +4,6 @@
 * A Unit Testing test script using JUnit framework
 * A build script using Ant build tool
 * ...
-![Test Driven Development - source code](https://github.com/quangdlm/math-util-se1615-ant/blob/main/screenshot/Math-util-sreen.png)
 ![Test process - with JUnit](https://github.com/quangdlm/math-util-se1615-ant/blob/main/screenshot/Test-screen-DDT.png)
 
 #### Connect me via minhquang26116@gmail.com
