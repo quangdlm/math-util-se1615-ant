@@ -24,7 +24,7 @@ public class MathUtil {
         
         long product = 1; // tích khởi đầu luôn luôn là 1, biến tích lũy acc
         if (n == 0 || n == 1)
-            return 1; // tinh luon
+            return 1; // tính luôn
         
         for (int i = 2; i <= n; i++) 
             product*=i;// product = product * i;
